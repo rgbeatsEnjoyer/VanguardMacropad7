@@ -1,1 +1,3 @@
-# VanguardMacropad7
+# VanguardMacropad V7
+
+placeholder text
